@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm chavelwozanna340
 
-<!--
-**chavelwozanna340/chavelwozanna340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎻 🎮 🚵 Always learning about startup culture 🎻 🎮 🚵
 
-Here are some ideas to get you started:
+## About Me
+🎽 🛹 🚣 A hacker in augmented reality 🎽 🛹 🚣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚵 🏄 🚴 A programmer in computer vision 🚵 🏄 🚴
+
+### Fun Facts
+🎪 🎽 🎾 A professional in cybersecurity 🎪 🎽 🎾
+
+---
+🚵 🎤 🎮 🎺 🎷 Thanks for visiting my profile! 🎣 🎻 🏑 🚵 🏏
